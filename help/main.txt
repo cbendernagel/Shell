@@ -1,0 +1,12 @@
+KJCB bash, version 1.3.3.7
+Type 'help' to see this list. 
+
+LIST OF BUILT IN COMMANDS:
+cd [dirpath]
+pwd
+echo
+set
+bg [jobid]
+fg [jobid]
+kill [jobid]
+jobs

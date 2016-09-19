@@ -1,0 +1,2 @@
+jobs: 
+	Prints out the list of all jobs. Shows the job id of each job, its current status, and the command associated with that job.

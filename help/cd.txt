@@ -1,0 +1,7 @@
+cd: cd [dirpath]
+	Allows for the changing of directories.
+	/ at beginning of dirpath specifies root directory
+	- changes to last directory
+	~ or blank dir path changes to home directory
+	. changes to current working directory
+	.. results in moving up a directory

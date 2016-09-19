@@ -1,0 +1,2 @@
+fg: fg [jobid]
+	Runs the job designated by jobid in the foreground. If no jobid is specified the last stopped job is run in the foreground.

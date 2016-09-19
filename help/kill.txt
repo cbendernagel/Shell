@@ -1,0 +1,3 @@
+kill: kill [jobid] 
+	Kills the job designated by job id. 
+	

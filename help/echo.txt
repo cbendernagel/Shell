@@ -1,0 +1,1 @@
+echo[variable]: takes in a string representing the variable we want to print.  If this variable is found, its value is printed.  If not, the full string is printed.  This function will always return 0.
